@@ -13,11 +13,11 @@ mystat: mystat.o
 mystat.o: mystat.c 
 	$(CC) $(CFLAGS) -c  mystat.c
 
-mystat: mystat.o
+csv2bin: csv2bin.o
 	$(CC) $(CFLAGS) -o csv2bin csv2bin.o 
 
 
-mystat.o: mystat.c 
+csv2bin.o: csv2bin.c 
 	$(CC) $(CFLAGS) -c  csv2bin.c
 
 clean:
