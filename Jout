@@ -1,0 +1,65 @@
+File: FUNNYbrokenlink
+  File type:                symlink
+  Device ID: 889192453
+  I-node number: 2105087310
+  Mode: -rwxrwxrwx 777
+  Link count: 1
+  Owner ID: root    501
+  Group ID: wheel 20
+  File size : 1024
+  Blocks allocated : 2
+  Last file accessed : 2020-02-05 16:28:42 -0800 (PST) Wed
+  Last file modification : 2020-02-05 16:28:42 -0800 (PST) Wed
+  Last status change : 2020-02-05 16:28:42 -0800 (PST) Wed
+File: FUNNYdir
+  File type:                directory
+  Device ID: 889192453
+  I-node number: 2092989654
+  Mode: drwxrwx--- 770
+  Link count: 1
+  Owner ID: adriannaguevarra    501
+  Group ID: staff 20
+  File size : 1024
+  Blocks allocated : 32
+  Last file accessed : 2020-02-05 16:28:42 -0800 (PST) Wed
+  Last file modification : 2020-02-05 16:28:42 -0800 (PST) Wed
+  Last status change : 2020-02-05 16:28:42 -0800 (PST) Wed
+File: FUNNYhardlink
+  File type:                regular file
+  Device ID: 889192453
+  I-node number: 2083048599
+  Mode: -rwxr-xr-x 755
+  Link count: 1
+  Owner ID: adriannaguevarra    501
+  Group ID: staff 20
+  File size : 1024
+  Blocks allocated : 2
+  Last file accessed : 2020-02-05 16:28:49 -0800 (PST) Wed
+  Last file modification : 2020-02-05 16:28:49 -0800 (PST) Wed
+  Last status change : 2020-02-05 18:43:26 -0800 (PST) Wed
+File: FUNNYlink
+  File type:                symlink
+  Device ID: 889192453
+  I-node number: 2092989656
+  Mode: -rwxrwxrwx 777
+  Link count: 1
+  Owner ID: adriannaguevarra    501
+  Group ID: staff 20
+  File size : 1024
+  Blocks allocated : 2
+  Last file accessed : 2020-02-05 16:28:49 -0800 (PST) Wed
+  Last file modification : 2020-02-05 16:28:49 -0800 (PST) Wed
+  Last status change : 2020-02-05 16:28:49 -0800 (PST) Wed
+File: FUNNYregfile
+  File type:                regular file
+  Device ID: 889192453
+  I-node number: 2083048599
+  Mode: -rwxr-xr-x 755
+  Link count: 1
+  Owner ID: adriannaguevarra    501
+  Group ID: staff 20
+  File size : 1024
+  Blocks allocated : 2
+  Last file accessed : 2020-02-05 16:28:49 -0800 (PST) Wed
+  Last file modification : 2020-02-05 16:28:49 -0800 (PST) Wed
+  Last status change : 2020-02-05 18:43:26 -0800 (PST) Wed
